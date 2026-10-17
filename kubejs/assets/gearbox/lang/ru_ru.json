@@ -59,7 +59,7 @@
   "block.gearbox.straight_steel_fluid_pipe": "Прямая стальная жидкостная труба",
   "block.gearbox.volatile_gas": "Летучий газ",
   "death.attack.gearbox.laserdeath": "%1$s получил слишком много радиации",
-  "death.attack.gearbox.laserdeath.player": "%1$s был освещён %2$s",
+  "death.attack.gearbox.laserdeath.player": "%1$s был прожжён %2$s",
   "fluid.gearbox.air": "Воздух",
   "fluid.gearbox.ammonia": "Аммиак",
   "fluid.gearbox.argon": "Аргон",
